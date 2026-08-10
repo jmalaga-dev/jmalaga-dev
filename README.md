@@ -2,7 +2,7 @@
 
 ### Backend Developer · API & Data Engineering
 
-Backend developer with **3+ years** building internal backend tools, REST APIs and
+Backend developer with **4+ years** building internal backend tools, REST APIs and
 data-intensive systems in enterprise energy-sector environments. Originally a
 Petroleum Engineer, reconverted to software with a focus on **rigorous data
 modeling, atomic transactions, and turning messy real-world business rules into
