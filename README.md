@@ -8,7 +8,7 @@ Petroleum Engineer, reconverted to software with a focus on **rigorous data
 modeling, atomic transactions, and turning messy real-world business rules into
 correct, traceable systems.**
 
-🌎 Based in Bolivia · open to fully remote roles · Spanish (native), English (B1+)
+🌎 Based in Bolivia · open to fully remote roles · Spanish (native), English (B2+)
 
 ---
 
